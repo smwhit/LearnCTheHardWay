@@ -31,7 +31,6 @@ int main(int argc, char *argv[])
 
    areas[0] = name[1];
 
-   printf("areas[0] = %u\n", areas[0]);
    return 0;
 
 }
